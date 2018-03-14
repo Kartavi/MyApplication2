@@ -52,5 +52,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void TestGit(){
         int i=1+1;
+        String name="abdul";
     }
 }
